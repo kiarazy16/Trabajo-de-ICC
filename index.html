@@ -21,12 +21,12 @@
     </ul>
     <h3> CURSOS DE LA CARRERA: </h3>
     <ul>
-        <li>Introducción a la Computación: Prof. Ernesto Cuadros Vargas.</li>
-        <li>Cálculo I: Prof. Edwin Maraví Percca.</li>
-        <li>Redacción y Técnicas de Comunicación Efectiva I: Profa. Ana Eylin Coronel Tello.</li>
-        <li>Métodos de Estudio Universitario: Profa. Miryam Milagros Cosme Félix.</li>
-        <li>Álgebra y Geometría Analítica: Profa. Hellen Gloria Terreros Navarro.</li>
-        <li>Medio Ambiente y Desarrollo Sostenible: Profa. Petronila Merida Fanola Merino.</li>
+        <li>Introducción a la Computación:<a href="https://www.linkedin.com/in/ecuadrosv/">Prof. Ernesto Cuadros Vargas</a></li>
+        <li>Cálculo I: <a href="https://www.linkedin.com/in/marcos-maravi/">Prof. Edwin Maraví Percca</a>.</li>
+        <li>Redacción y Técnicas de Comunicación Efectiva I: <a href="https://www.linkedin.com/in/ana-eylin-coronel-tello-8934a4140/">Profa. Ana Eylin Coronel Tello</a>.</li>
+        <li>Métodos de Estudio Universitario: <a href="https://www.linkedin.com/in/miryam-cosme-felix-22a52140/">Profa. Miryam Milagros Cosme Félix</a>.</li>
+        <li>Álgebra y Geometría Analítica:Profa. Hellen Gloria Terreros Navarro</li>
+        <li>Medio Ambiente y Desarrollo Sostenible:Profa. Petronila Merida Fanola Merino.</li>
         <li>Desarrollo Personal y Liderazgo: Profa. Luz Basualdo Porras.</li>
     </ul>
     <h4>  ENLACES DE CONTACTO: </h4>
