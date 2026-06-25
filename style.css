@@ -1,0 +1,27 @@
+.logo-fisi{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.logo-fisi img{
+    width: 180px;
+    height: auto;
+}
+.logo-fisi{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.logo-fisi img{
+    width: 150px;
+}
+
+.foto-perfil{
+    width: 280px;
+    position: absolute;
+    top: 220px;
+    left: 650px;
+    border-radius: 20px;
+}
